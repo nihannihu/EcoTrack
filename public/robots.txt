@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Sitemap: https://md-nihan.github.io/EcoTrack/sitemap.xml
+
+# SEO Optimization for Nihan Nihu (nihannihu)
+# GitHub: https://github.com/nihannihu
+# Instagram: @nihannihuu
+# LinkedIn: nihan-nihu

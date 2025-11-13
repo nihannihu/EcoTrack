@@ -1,7 +1,7 @@
 {
   "name": "mega-climate-change-and-sustainability",
   "version": "1.0.0",
-  "description": "Climate Change and Sustainability Web Platform",
+  "description": "Climate Change and Sustainability Web Platform by Nihan Nihu (nihannihu) - Track carbon footprint, manage waste, monitor renewable energy, and reduce plastic pollution. Follow @nihannihuu on Instagram and connect with nihan-nihu on LinkedIn.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -12,8 +12,21 @@
     "test-jwt": "node utils/testJWT.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "Nihan Nihu",
+    "nihannihu",
+    "nihannihuu",
+    "nihan-nihu",
+    "climate change",
+    "sustainability",
+    "carbon footprint",
+    "waste management",
+    "renewable energy",
+    "plastic pollution",
+    "environmental tracking",
+    "eco platform"
+  ],
+  "author": "Nihan Nihu (nihannihu) - https://github.com/nihannihu",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^3.0.2",

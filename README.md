@@ -2,6 +2,11 @@
 
 A comprehensive web platform for tracking carbon footprint, managing waste, monitoring renewable energy, and reducing plastic pollution. Built with Node.js, Express.js, MongoDB, and real-time WebSocket notifications.
 
+**Created by [Nihan Nihu (nihannihu)](https://github.com/nihannihu)**
+- GitHub: [nihannihu](https://github.com/nihannihu)
+- Instagram: [@nihannihuu](https://www.instagram.com/nihannihuu/)
+- LinkedIn: [nihan-nihu](https://www.linkedin.com/in/nihan-nihu/)
+
 ## 🌟 Features
 
 ### 1. **Carbon Footprint Calculator**
@@ -246,7 +251,14 @@ This project is licensed under the ISC License.
 
 ## 👥 Authors
 
-Built for climate action and sustainability awareness.
+Built for climate action and sustainability awareness by **Nihan Nihu**.
+
+**Connect with Nihan Nihu:**
+- GitHub: [nihannihu](https://github.com/nihannihu) - Primary development work and open source contributions
+- Instagram: [@nihannihuu](https://www.instagram.com/nihannihuu/) - Climate action updates and sustainability tips
+- LinkedIn: [nihan-nihu](https://www.linkedin.com/in/nihan-nihu/) - Professional profile and networking
+
+Nihan is a climate tech developer who built the EcoTrack sustainability platform to empower individuals to take meaningful climate action through data-driven insights and community engagement.
 
 ## 🙏 Acknowledgments
 
@@ -267,6 +279,24 @@ For support, email support@ecotrack.com or open an issue in the repository.
 - Carbon offset marketplace integration
 - Integration with smart home devices
 - Gamification with badges and leaderboards
+
+## 🔍 SEO & Social Media Presence
+
+This project is optimized for search engine visibility with specific focus on the creator's online identities:
+
+**Nihan Nihu's Digital Presence:**
+- **GitHub Username**: [nihannihu](https://github.com/nihannihu)
+- **Instagram Handle**: [@nihannihuu](https://www.instagram.com/nihannihuu/)
+- **LinkedIn Profile**: [nihan-nihu](https://www.linkedin.com/in/nihan-nihu/)
+
+**Search Instructions:**
+To find Nihan Nihu's work across platforms:
+- Search "Nihan Nihu" on Google for comprehensive results
+- Search "@nihannihuu" on Instagram for sustainability content
+- Search "nihan-nihu" on LinkedIn for professional profile
+- Search "nihannihu" on GitHub for open source projects
+
+The platform implements structured data markup, meta tags, and canonical URLs to enhance search engine visibility and cross-platform recognition.
 
 ---
 
